@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm the production account from Wingtra. I'm used in a lot of different places. Think about computers in production, the CI (Tekton) in production, etc.
+Don't remove me! I'm critical for the infrastructure!
+
+Please ask the Indus team (Jasper/Fabian) for more info.
+
 <!--
 **prodWingtra/prodWingtra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
